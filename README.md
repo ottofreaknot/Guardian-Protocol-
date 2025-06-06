@@ -1,2 +1,3 @@
-# Guardian-Protocol-
-Decentralized safety, protection, and transparency system powered by drones, mesh networks, and ethical tech.
+# Guardian Protocol
+
+A decentralized safety and defense system using ethical drones, mesh networks, and survivor-focused technology.
